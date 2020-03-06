@@ -6,6 +6,7 @@ import Blog from './components/Blog';
 import Ofertas from './components/Ofertas';
 import Brand from './components/Brand';
 import Footer from './components/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 function App() {
   return (
