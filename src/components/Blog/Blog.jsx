@@ -1,3 +1,7 @@
+/**
+ * Componente con el Magazine en forma Noticias.
+ */
+
 import * as React from 'react';
 
 

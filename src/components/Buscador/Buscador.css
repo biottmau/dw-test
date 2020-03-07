@@ -1,0 +1,12 @@
+
+
+.buscador_container{
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+    padding: 5vmin;
+
+}

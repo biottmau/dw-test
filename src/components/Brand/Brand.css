@@ -1,0 +1,49 @@
+.logo{
+    height: 8vmin;
+    pointer-events: none;
+  }
+
+.container{
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    margin-top:5vmin;
+    padding: 5vmin;
+    display: flex;
+    flex-wrap: wrap;
+    width: 900px;
+}
+
+.container-logo{
+    padding: 2vmin;
+    width: 30%;
+}
+.container-textos{
+    text-align: left;
+    flex-flow: column;
+    display: flex;
+    flex-wrap: nowrap;
+    width: 70%;
+}
+@media  (max-width:768px){
+    .container-textos{
+        text-align: left;
+        flex-flow: column;
+        display: flex;
+        flex-wrap: nowrap;
+        width: 100%;
+    }
+    
+}
+
+
+.container-text{
+    word-wrap: break-word;
+    white-space: normal;
+    font-size: x-large;
+    font-weight: bold;
+    text-align: left;
+}
+.container-text1{
+    text-align: left;
+}

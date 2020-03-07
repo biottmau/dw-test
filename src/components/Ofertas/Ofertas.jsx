@@ -1,3 +1,6 @@
+/**
+ * Componente con las ofertas mas descatacads en un carrousel
+ */
 import * as React from 'react';
 
 

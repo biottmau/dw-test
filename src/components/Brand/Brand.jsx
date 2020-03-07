@@ -3,7 +3,7 @@
  */
 
 import * as React from 'react';
-import logo from '../Trivago.svg';
+import logo from '../../images/Trivago.svg';
 import './Brand.css';
 
 
