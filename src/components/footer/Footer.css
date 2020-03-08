@@ -1,0 +1,31 @@
+.Footer-container{
+    margin-left: auto;
+    margin-right: auto;
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    margin-top:5vmin;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #37454D;
+}
+
+
+.Footer-brand{
+    padding:5vmin;
+    align-items: center;
+    width: 100%;
+}
+
+.Footer-brand-logo{
+    height: 5vmin;
+    filter: grayscale(100%) brightness(100);
+}
+
+.Footer-copyright{
+    font-size: 2vmin;
+    margin-top: 2vmin;
+    margin-bottom: 5vmin;
+    color: #DEDEDE;
+}
