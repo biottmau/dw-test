@@ -1,3 +1,6 @@
+/**
+ * Componente encargado de mostrar los diferentes tipo de busqueda o reserva
+ */
 import * as React from 'react';
 import Select from 'react-select';
 import ParamsService from '../../services/ParamsService';
