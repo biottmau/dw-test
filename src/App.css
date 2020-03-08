@@ -44,3 +44,18 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App-title{
+  font-size: large;
+  font-weight: bold;
+}
+
+
+.App-text{
+  text-align: left;
+  font-size: medium;
+  word-wrap: break-word;
+  white-space: normal;
+
+}
