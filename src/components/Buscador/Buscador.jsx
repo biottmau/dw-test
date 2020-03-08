@@ -4,7 +4,7 @@
 
 import * as React from 'react';
 import './Buscador.css';
-
+import DateRangePicker from '../lib/DatePickerRange';
 
 class Buscador extends React.Component {
 
@@ -18,7 +18,7 @@ class Buscador extends React.Component {
     render() {
         return (
             <div className="buscador_container" >
-                Buscador
+                <DateRangePicker />
             </div>
         );
 
