@@ -12,3 +12,21 @@
     padding: 5vmin;
 
 }
+
+.Buscador-autocomplete{
+    width: 35%;
+}
+
+.Buscador-dates{
+    width: 35%;
+    display: flex;
+    flex-wrap: nowrap;
+}
+.Buscador-types{
+    width: 15%;
+
+}
+.Buscador-button{
+    width: 15%;
+
+}

@@ -48,6 +48,7 @@ class DateRangePicker extends React.Component {
                     format="LL"
                     formatDate={formatDate}
                     parseDate={parseDate}
+                    inputProps={{ style: { width: "50%" } }}
                     dayPickerProps={{
                         selectedDays: [from, { from, to }],
                         disabledDays: { after: to },
@@ -57,8 +58,7 @@ class DateRangePicker extends React.Component {
                         onDayClick: () => this.to.getInput().focus(),
                     }}
                     onDayChange={this.handleFromChange}
-                /> {' '}
-                —{' '}
+                /> 
                 <span className="InputFromTo-to">
                     <DayPickerInput
                         ref={el => (this.to = el)}
@@ -67,6 +67,7 @@ class DateRangePicker extends React.Component {
                         format="LL"
                         formatDate={formatDate}
                         parseDate={parseDate}
+                        inputProps={{ style: { width: "50%" } }}
                         dayPickerProps={{
                             selectedDays: [from, { from, to }],
                             disabledDays: { before: from },
@@ -80,6 +81,7 @@ class DateRangePicker extends React.Component {
                 </span>
                 <Helmet>
                     <style>{`
+
   .InputFromTo .DayPicker-Day--selected:not(.DayPicker-Day--start):not(.DayPicker-Day--end):not(.DayPicker-Day--outside) {
     background-color: #f0f8ff !important;
     color: #4a90e2;

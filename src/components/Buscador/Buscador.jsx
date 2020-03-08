@@ -5,6 +5,8 @@
 import * as React from 'react';
 import './Buscador.css';
 import DateRangePicker from '../lib/DatePickerRange';
+import Autocomplete from '../lib/Autocomplete';
+import SelectTypes from '../lib/SelectTypes';
 
 class Buscador extends React.Component {
 
@@ -18,7 +20,19 @@ class Buscador extends React.Component {
     render() {
         return (
             <div className="buscador_container" >
-                <DateRangePicker />
+                <div className="Buscador-autocomplete">
+                    <Autocomplete />
+                </div>
+                <div className="Buscador-dates">
+                    <DateRangePicker />
+                </div>
+                <div className="Buscador-types">
+                    <SelectTypes />
+                </div>
+                <div className="Buscador-button">
+                    <a href="#" className="btn btn-primary" >Buscar</a>
+
+                </div>
             </div>
         );
 
