@@ -1,0 +1,39 @@
+.Blog-brand{
+    margin-top: 3vmin;
+}
+
+.Blog-title{
+    font-size: x-large;
+    font-weight: bold;
+}
+
+.Blog-brand-logo{
+    height: 5vmin;
+}
+
+.Blog-container-posts{
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    margin-top:5vmin;
+    display: flex;
+    flex-wrap: wrap;
+    width: 980px;
+}
+
+.Blog-post{
+    width: 25%;
+    border:1px solid #DDDDDD;
+    padding-left: 2vmin;
+}
+
+@media  (max-width:768px){
+    .Blog-post{
+        width: 50%;
+    }
+}
+@media  (max-width:480px){
+    .Blog-post{
+        width: 100%;
+    }
+}
