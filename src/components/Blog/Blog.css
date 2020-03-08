@@ -13,7 +13,7 @@
 
 .Blog-container-posts{
     flex-flow: row;
-    align-items: center;
+    align-items: flex-start;
     justify-items: center;
     margin-top:5vmin;
     display: flex;
@@ -23,8 +23,6 @@
 
 .Blog-post{
     width: 25%;
-    border:1px solid #DDDDDD;
-    padding-left: 2vmin;
 }
 
 @media  (max-width:768px){
@@ -36,4 +34,17 @@
     .Blog-post{
         width: 100%;
     }
+}
+
+
+.Blog-container{
+    margin-left: auto;
+    margin-right: auto;
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    margin-top:5vmin;
+    display: flex;
+    flex-wrap: wrap;
+    width: 1024px;
 }

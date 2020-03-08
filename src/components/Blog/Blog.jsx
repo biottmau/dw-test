@@ -12,7 +12,7 @@ import BlogPosts from './BlogPosts';
 
 
 const Blog = () => (
-    <div className="container">
+    <div className="Blog-container">
         <div className="App-title"> ¿Necesitás ideas para tu próximo viaje?</div>
         <div className="App-text">Descubrí las mejores experiencias en hoteles en los más de 140 artículos de trivago Magazine, desde hoteles boutique en Mendoza hasta casas de campo encantadoras en Córdoba.</div>
         <div className="Blog-brand">
