@@ -29,7 +29,7 @@ class BlogPosts extends React.Component {
         return (
             <div className="Blog-container-posts">
                 {this.state.data.map((post, index) => (
-                    <div className="Blog-post">
+                    <div className="Blog-post" key={index}>
                         <CardBlog
                             src={post.imagen}
                             alt="Algun comentario"
