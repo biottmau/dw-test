@@ -1,4 +1,4 @@
-## Creo un proyecto en blanco con react para codificar Test,
+## Creo un proyecto en blanco con react para codificar Test
 ## Landing Page de Trivago
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -80,5 +80,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ## JSON de ejemplos
-## Los mismos fueron publicados en hosting propios para simular API
-blog.json
+## Los mismos fueron publicados en hosting propios para simular API.
+blog.json, types.json
