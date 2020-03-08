@@ -75,6 +75,8 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 "bootstrap": "^4.4.1",
 "moment": "^2.24.0",
 "react-helmet": "^5.2.1",
+"react-autosuggest": "^9.4.3",
+"react-select": "^3.0.8",
 
 
 ## JSON de ejemplos
