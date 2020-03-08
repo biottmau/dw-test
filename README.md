@@ -1,4 +1,5 @@
-## Creo un proyecto en blanco con react para iniciar de ceo un proyecto
+## Creo un proyecto en blanco con react para codificar Test,
+## Landing Page de Trivago
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +69,14 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+## Librerías agregadas.
+"bootstrap": "^4.4.1",
+"moment": "^2.24.0",
+"react-helmet": "^5.2.1",
+
+
+## JSON de ejemplos
+## Los mismos fueron publicados en hosting propios para simular API
+blog.json
