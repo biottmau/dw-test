@@ -22,6 +22,16 @@
     display: flex;
     flex-wrap: nowrap;
 }
+@media  (max-width:768px){
+    .Buscador-autocomplete{
+        width: 100%;
+    }
+    .Buscador-dates{
+        width: 100%;
+    }
+}
+
+
 .Buscador-types{
     width: 15%;
 
@@ -30,3 +40,13 @@
     width: 15%;
 
 }
+
+@media  (max-width:768px){
+    .Buscador-types{
+        width: 50%;
+    }
+    .Buscador-button{
+        width: 50%;
+    }
+}
+

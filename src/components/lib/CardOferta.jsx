@@ -4,7 +4,6 @@
 
 import * as React from 'react';
 import './CardOferta.css'
-import Helmet from 'react-helmet';
 
 class CardOferta extends React.Component {
 

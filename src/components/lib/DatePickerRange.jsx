@@ -35,6 +35,7 @@ class DateRangePicker extends React.Component {
 
     handleToChange(to) {
         this.setState({ to }, this.showFromMonth);
+        this.props.onSelect(this.state.from + " - " + this.state.to)
     }
 
     render() {

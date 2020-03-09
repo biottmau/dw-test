@@ -31,6 +31,7 @@ class SelectTypes extends React.Component {
             { selectedOption },
             () => console.log(`Option selected:`, this.state.selectedOption)
         );
+        this.props.onSelect(this.state.selectedOption.value);
     };
     render() {
         const { selectedOption } = this.state;

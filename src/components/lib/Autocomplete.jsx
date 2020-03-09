@@ -1,3 +1,8 @@
+/**
+ * Componente del input autocomplete que busca hoteles o ciudades
+ * 
+ */
+
 import * as React from 'react';
 import './Autocomplete.css';
 import Autosuggest from 'react-autosuggest';
@@ -17,11 +22,11 @@ const getSuggestions = (value, values) => {
     return values.filter(name => regex.test(name.result));
 }
 
-const getSuggestionValue = suggestion => suggestion.result;
+const getSuggestionValue = suggestion => {
+    return suggestion.result
+};
 
 const renderSuggestion = suggestion => {
-    console.log("sugestion")
-    console.log(suggestion);
 
     return (
         <div>
@@ -33,7 +38,7 @@ const renderSuggestion = suggestion => {
 
 const renderInputComponent = inputProps => (
     <div className="inputContainer">
-        <img className="icon" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-alt-128.png" />
+        <img className="icon" alt="" src="https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-alt-128.png" />
         <input {...inputProps} />
     </div>
 );
@@ -41,8 +46,8 @@ const renderInputComponent = inputProps => (
 
 
 class Autocomplete extends React.Component {
-    constructor() {
-        super();
+    constructor(props) {
+        super(props);
 
         this.state = {
             value: '',
@@ -80,6 +85,11 @@ class Autocomplete extends React.Component {
             suggestions: []
         });
     };
+    onSelect = (sug) => {
+
+        this.props.onSelect(sug.result);
+        return getSuggestionValue(sug);
+    }
 
     render() {
         const { value, suggestions } = this.state;
@@ -94,7 +104,7 @@ class Autocomplete extends React.Component {
                 suggestions={suggestions}
                 onSuggestionsFetchRequested={this.onSuggestionsFetchRequested}
                 onSuggestionsClearRequested={this.onSuggestionsClearRequested}
-                getSuggestionValue={getSuggestionValue}
+                getSuggestionValue={this.onSelect}
                 renderSuggestion={renderSuggestion}
                 inputProps={inputProps}
                 renderInputComponent={renderInputComponent}
