@@ -77,11 +77,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 "react-helmet": "^5.2.1",
 "react-autosuggest": "^9.4.3",
 "react-select": "^3.0.8",
+"react-tabs": "^3.1.0",
 
 
 ## JSON de ejemplos
 Los mismos fueron publicados en hosting propios para simular API.
-blog.json, types.json
+( blog.json, types.json, ofertas-destinos.json, ofertas-destacadas.json )
 
 
 ## Datos extras.

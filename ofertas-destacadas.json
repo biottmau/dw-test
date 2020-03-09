@@ -1,0 +1,46 @@
+[
+    {
+        "title":"Hoteles en Córdoba Capital",
+        "resumen":"2174 hoteles",
+        "precio":"$3.857",
+        "imagen":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/73/26/73261_v38.jpeg",
+        "url":"https://www.trivago.com.ar/cordoba-capital-93149/hotel"
+    },
+    {
+        "title":"Hoteles en Mar del Plata",
+        "resumen":"2174 hoteles",
+        "precio":"$3.867",
+        "imagen":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/13/70/137091_v38.jpeg",
+        "url":"https://www.trivago.com.ar/mar-del-plata-156471/hotel"
+    },
+    {
+        "title":"Hoteles en Mendoza Provincia",
+        "resumen":"2174 hoteles",
+        "precio":"$4.857",
+        "imagen":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/73/24/73245_v75.jpeg",
+        "url":"https://www.trivago.com.ar/mendoza-provincia-93133/hotel"
+    },
+    {
+        "title":"Hoteles en Miami",
+        "resumen":"2174 hoteles",
+        "precio":"$2.857",
+        "imagen":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/14/33/14338_v75.jpeg",
+        "url":"https://www.trivago.com.ar/miami-34388/hotel"
+    },
+    {
+        "title":"Hoteles en Viña del Mar",
+        "resumen":"2174 hoteles",
+        "precio":"$3.870",
+        "imagen":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/81/97/81970_v74.jpeg",
+        "url":"https://www.trivago.com.ar/vina-del-mar-102044/hotel"
+    },
+    {
+        "title":"Hoteles en La Plata",
+        "resumen":"2174 hoteles",
+        "precio":"$3.000",
+        "imagen":"https://imgcy.trivago.com/c_fill,d_dummy.jpeg,f_auto,h_258,q_auto,w_258/categoryimages/73/25/73257_v70.jpeg",
+        "url":"https://www.trivago.com.ar/vina-del-mar-102044/hotel"
+    }
+
+]
+
