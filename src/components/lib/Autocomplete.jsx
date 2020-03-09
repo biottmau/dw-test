@@ -1,21 +1,11 @@
 import * as React from 'react';
 import './Autocomplete.css';
 import Autosuggest from 'react-autosuggest';
-
-
-const names = [
-    'Brian',
-    'Caley',
-    'Casey',
-    'Caroline',
-    'Chris',
-    'David',
-    'Misha'
-];
+import BuscadorService from '../../services/BuscadorService';
 
 const escapeRegexCharacters = str => str.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
 
-const getSuggestions = value => {
+const getSuggestions = (value, values) => {
     const escapedValue = escapeRegexCharacters(value.trim());
 
     if (escapedValue === '') {
@@ -24,12 +14,22 @@ const getSuggestions = value => {
 
     const regex = new RegExp('^' + escapedValue, 'i');
 
-    return names.filter(name => regex.test(name));
+    return values.filter(name => regex.test(name.result));
 }
 
-const getSuggestionValue = suggestion => suggestion;
+const getSuggestionValue = suggestion => suggestion.result;
 
-const renderSuggestion = suggestion => suggestion;
+const renderSuggestion = suggestion => {
+    console.log("sugestion")
+    console.log(suggestion);
+
+    return (
+        <div>
+            <div className="Autocomplete-list">{suggestion.result}</div>
+            <div className="Autocomplete-list-detail">{suggestion.city}</div>
+        </div>
+    );
+};
 
 const renderInputComponent = inputProps => (
     <div className="inputContainer">
@@ -38,13 +38,16 @@ const renderInputComponent = inputProps => (
     </div>
 );
 
+
+
 class Autocomplete extends React.Component {
     constructor() {
         super();
 
         this.state = {
             value: '',
-            suggestions: []
+            suggestions: [],
+            isSearching: false,
         };
     }
 
@@ -56,8 +59,20 @@ class Autocomplete extends React.Component {
 
     onSuggestionsFetchRequested = ({ value }) => {
         this.setState({
-            suggestions: getSuggestions(value)
+            suggestions: [],
+            isSearching:true,
+
         });
+        BuscadorService.getAutocomplete().then( (data) => {
+            console.log("buscando.....");
+            console.log(data);
+            this.setState({
+                suggestions: getSuggestions(value,data),
+                isSearching:false,
+            });
+    
+        } );
+
     };
 
     onSuggestionsClearRequested = () => {
@@ -69,7 +84,7 @@ class Autocomplete extends React.Component {
     render() {
         const { value, suggestions } = this.state;
         const inputProps = {
-            placeholder: "Type 'c'",
+            placeholder: this.state.isSearching?'Buscando...':"Ingrese lo que desea ...",
             value,
             onChange: this.onChange
         };
