@@ -78,11 +78,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 "react-autosuggest": "^9.4.3",
 "react-select": "^3.0.8",
 "react-tabs": "^3.1.0",
-
+"axios": "^0.19.2",
+"react-router-dom": "^5.1.2",
 
 ## JSON de ejemplos
 Los mismos fueron publicados en hosting propios para simular API.
-( blog.json, types.json, ofertas-destinos.json, ofertas-destacadas.json )
+( blog.json, types.json, ofertas-destinos.json, ofertas-destacadas.json, buscador.json )
 
 
 ## Datos extras.

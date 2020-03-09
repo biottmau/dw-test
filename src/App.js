@@ -1,53 +1,16 @@
 import React from 'react';
 import './App.css';
-import Buscador from './components/Buscador/Buscador';
-import Blog from './components/Blog/Blog';
-import Ofertas from './components/Ofertas/Ofertas';
-import Brand from './components/Brand/Brand';
-import Footer from './components/footer/Footer';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Switch, Route } from 'react-router-dom';
+import HomeScreen from './pages/HomeScreen';
+import BuscadorScreen from './pages/BuscadorScreen';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          inicio Sesión
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Menú
-        </a>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          ARS
-        </a>
-      </header>
-      <content>
-        <Brand />
-        <Buscador />
-        <Blog />
-        <Ofertas />
-        
-      </content>
-      <footer>
-        <Footer/>
-
-      </footer>
-    </div>
+    <Switch>
+      <Route exact path="/" component={HomeScreen} />
+      <Route exact path="/buscador/:id" component={BuscadorScreen} />
+    </Switch>
   );
 }
 
