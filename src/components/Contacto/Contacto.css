@@ -1,0 +1,75 @@
+.Contacto-container{
+    margin-left: auto;
+    margin-right: auto;
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    margin-top:0vmin;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: #293339;
+}
+
+.Contacto-center{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    flex-flow: row;
+    align-items: center;
+    justify-items: center;
+    margin-top:0vmin;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.Contacto-50{
+    width: 50%;
+    color:#FFFFFF;
+    text-align: left;
+    padding-top: 5vmin;
+}
+
+.Contacto-33{
+    width: 33%;
+    color:#FFFFFF;
+    padding-top: 5vmin;
+}
+
+.Contacto-separate{
+    width: 100%;
+    border-bottom: 1px solid #FFFFFF;
+    margin-top: 3vmin;
+    margin-bottom: 3vmin;
+}
+
+.Contacto-social-ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  .Contacto-social-li {
+    float: left;
+  }
+  
+  .Contacto-social-li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding-right: 16px;
+    text-decoration: none;
+  }
+  
+  .Contacto-help-ul{
+      text-align: left;
+  }
+  .Contacto-help-ul li a{
+    display: block;
+    color: white;
+    text-align: left;
+    padding-right: 16px;
+    text-decoration: none;
+    
+}
