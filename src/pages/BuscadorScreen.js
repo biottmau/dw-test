@@ -33,7 +33,7 @@ function BuscadorScreen() {
         </a>
       </header>
       <content>
-        <div>Buscando......</div>
+        <div><br/><br/><br/>Tranbajando en la busqueda de resultados......</div>
 
       </content>
       <footer>

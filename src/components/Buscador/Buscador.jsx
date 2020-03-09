@@ -30,7 +30,7 @@ class Buscador extends React.Component {
                     <SelectTypes />
                 </div>
                 <div className="Buscador-button">
-                    <a href="#" className="btn btn-primary" >Buscar</a>
+                    <a href="/buscador/1" className="btn btn-primary" >Buscar</a>
 
                 </div>
             </div>

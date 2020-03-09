@@ -82,6 +82,16 @@ class DateRangePicker extends React.Component {
                 <Helmet>
                     <style>{`
 
+  .InputFromTo{
+      flex-flow:row;
+      display:flex;
+      height:44px;
+  }
+  .InputFromTo .DayPickerInput input{
+      width:95% !important;
+      height:44px;
+  }
+
   .InputFromTo .DayPicker-Day--selected:not(.DayPicker-Day--start):not(.DayPicker-Day--end):not(.DayPicker-Day--outside) {
     background-color: #f0f8ff !important;
     color: #4a90e2;
