@@ -1,0 +1,32 @@
+.Ofertas-container{
+    margin-left: auto;
+    margin-right: auto;
+    align-items: left;
+    justify-items: left;
+    width:80%;
+    padding: 5vmin;
+
+}
+
+.Ofertas-title{
+    margin-top: 3vmin;
+    text-align: left;
+}
+.Ofertas-tabs{
+    margin-top: 3vmin;
+    text-align: left;
+}
+
+.Ofertas-container-posts{
+    flex-flow: row;
+    display: flex;
+    align-items: flex-start;
+    justify-items: center;
+    margin-top:5vmin;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.Ofertas-post{
+    width: 400px;
+}

@@ -4,6 +4,7 @@
 
 import * as React from 'react';
 import './CardBlog.css'
+import Helmet from 'react-helmet';
 
 class CardBlog extends React.Component {
 
@@ -17,6 +18,14 @@ class CardBlog extends React.Component {
                     <p className="card-text">{this.props.resume}</p>
                     </a>
                 </div>
+                <Helmet>
+<style>{`
+.card{
+    border:2px solid #FFFFFF;
+}
+`}</style>
+                </Helmet>
+
             </div>
 
         );
