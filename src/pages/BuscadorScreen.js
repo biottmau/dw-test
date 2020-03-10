@@ -2,6 +2,7 @@ import React from 'react';
 import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Buscador from '../components/Buscador/Buscador';
+import Resultados from '../Resultados/Resultados';
 
 function BuscadorScreen(props) {
     console.log(props.match.params);
@@ -9,6 +10,7 @@ function BuscadorScreen(props) {
         <content>
             <div className="App-background-result"> 
             <Buscador />
+            <Resultados />
 
             <div ><br /><br /><br />Tranbajando en la busqueda de resultados......
         <br />

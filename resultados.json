@@ -1,0 +1,403 @@
+[
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/70/50/705071_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/13/71/137195_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/38/30/3830602_v1.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/22/05/220596_v3.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/21/90/219026_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/09/10091242.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/94/48/944817_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/52/10526690.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/52/10526690.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/40/77/407706_v3.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/16/69/1669229_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/32/47/324711_v2.jpeg"
+    },
+
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/70/50/705071_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/13/71/137195_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/38/30/3830602_v1.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/22/05/220596_v3.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/21/90/219026_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/09/10091242.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/94/48/944817_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/52/10526690.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/52/10526690.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/40/77/407706_v3.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/16/69/1669229_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/32/47/324711_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/70/50/705071_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/13/71/137195_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/38/30/3830602_v1.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/22/05/220596_v3.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/21/90/219026_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/09/10091242.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/94/48/944817_v2.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/52/10526690.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/10/52/10526690.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/40/77/407706_v3.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/16/69/1669229_v5.jpeg"
+    },
+    {
+        "name":"NG Córdoba Urbano",
+        "estrellas":4,
+        "ubicacion":"Cordoba Capital a 1.8 km de Centro de la ciudad",
+        "calificacion": 7.8,
+        "calificacion_name":"Bueno",
+        "calificacion_descript":"Ubicación excelente - Limpieza muy buena",
+        "precio":2654,
+        "precio_minimo":2496,
+        "imagen":"https://imgcy.trivago.com/c_lfill,d_dummy.jpeg,e_sharpen:60,f_auto,h_225,q_auto,w_225/itemimages/32/47/324711_v2.jpeg"
+    }
+
+
+
+    
+]
