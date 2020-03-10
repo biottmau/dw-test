@@ -7,7 +7,6 @@ import './Buscador.css';
 import DateRangePicker from '../lib/DatePickerRange';
 import Autocomplete from '../lib/Autocomplete';
 import SelectTypes from '../lib/SelectTypes';
-import logo from '../../images/Trivago.svg';
 
 class Buscador extends React.Component {
 

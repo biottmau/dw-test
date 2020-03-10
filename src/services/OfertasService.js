@@ -1,13 +1,14 @@
 /**
  * Clase encargada del consumo de API para la busqueda de ofertas
  */
+import * as Config from './config';
 
 class OfertasDestacadas {
     /**
      * Consulto datos en supuesta API  Ofertas destacadas
      */
     static getOfertasCiudadesDestacadas = () => {
-        return fetch("http://biott.ml/api_demo/ofertas-destacadas.json")
+        return fetch(Config.API_URL + "ofertas-destacadas.json")
             .then((response) => response.json())
             .then((data) => {
                 return data;
@@ -21,7 +22,7 @@ class OfertasDestacadas {
      * Consulto datos en supuesta API  Ofertas principales destinos
     */
     static getOfertasPrincipalesDestinos = () => {
-        return fetch("http://biott.ml/api_demo/ofertas-destinos.json")
+        return fetch(Config.API_URL + "ofertas-destinos.json")
             .then((response) => response.json())
             .then((data) => {
                 return data;

@@ -1,15 +1,18 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Switch, Route, BrowserRouter, useLocation } from 'react-router-dom';
+import { Switch, Route, BrowserRouter } from 'react-router-dom';
 import HomeScreen from './pages/HomeScreen';
 import BuscadorScreen from './pages/BuscadorScreen';
 import Footer from './components/footer/Footer';
 import logo from './images/Trivago.svg';
 
 
+/**
+ * Muestro logo si no esta en /
+ */
 const LogoNav = () => {
-  if(window.location.pathname != '/'){
+  if(window.location.pathname !== '/'){
     return(
       <div className="App-navbar-logo">
       <a href="/" >
