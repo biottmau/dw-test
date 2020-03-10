@@ -83,7 +83,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## JSON de ejemplos
 Los mismos fueron publicados en hosting propios para simular API.
-( blog.json, types.json, ofertas-destinos.json, ofertas-destacadas.json, buscador.json )
+( blog.json, types.json, ofertas-destinos.json, ofertas-destacadas.json, buscador.json, resultados.json )
 
 
 ## Datos extras.
