@@ -24,6 +24,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 70%;
+    height: 225px;
     border:1px solid #AAAAAA;
 }
 
@@ -36,4 +37,15 @@
     flex-wrap: wrap;
     width: 30%;
     border:1px solid #AAAAAA;
+    height: 225px;
+    vertical-align: top;
+}
+
+.CardResultado-container-left-detail{
+    vertical-align: top;;
+    text-align: left;
+    width: 65%;
+    height: 100%;
+    padding-top: 1vmin;
+    padding-left: 1vmin;
 }
