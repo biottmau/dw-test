@@ -23,6 +23,7 @@ class SelectTypes extends React.Component {
                 selectedOption:data[0],
                 options:data
             });
+            this.props.onSelect(data[0].value);
         });
     }
 

@@ -8,7 +8,7 @@
     display: flex;
     flex-wrap: wrap;
     width: 80%;
-    padding:2vmin;
+    padding:1vmin;
     margin-bottom: 3vmin;
     background-color: #FFFFFF;
     border-radius: 5px;
@@ -18,27 +18,39 @@
 
 .CardResultado-container-left{
     flex-flow: row;
-    align-items: center;
-    justify-items: center;
+    align-items: left;
+    justify-items: left;
     margin-top:0vmin;
     display: flex;
     flex-wrap: wrap;
     width: 70%;
-    height: 225px;
-    border:1px solid #AAAAAA;
+    height: 180px;
 }
+.CardResultado-container-left h5{
+    font-size: larger;
+    font-weight: bold;
+}
+
+@media  (max-width:768px){
+    .CardResultado-container-left{
+        width: 100%;
+    }
+}
+
+
 
 .CardResultado-container-right{
     flex-flow: row;
-    align-items: center;
-    justify-items: center;
+    align-items: left;
+    justify-items: left;
     margin-top:0vmin;
     display: flex;
     flex-wrap: wrap;
     width: 30%;
-    border:1px solid #AAAAAA;
-    height: 225px;
+    height: 180px;
+    border-left: 1px solid #CDCDCD;
     vertical-align: top;
+    padding: 1vmin;
 }
 
 .CardResultado-container-left-detail{
@@ -48,4 +60,45 @@
     height: 100%;
     padding-top: 1vmin;
     padding-left: 1vmin;
+}
+
+
+
+@media  (max-width:768px){
+    .CardResultado-container-left,
+    .CardResultado-container-right,
+    .CardResultado-container-left-detail,
+    .CardResultado-precio
+    {
+        width: 50%;
+    }
+
+    .CardResultado-container-left-detail{
+        display: none;
+    }
+
+}
+
+
+
+.CardResultado-thumb{
+    height: 180px;
+}
+.CardResultado-precio-title{
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
+}
+
+.CardResultado-precio{
+    width: 50%;
+    padding-left: 2vmin;
+    text-align: left;
+    font-weight: bold;
+    color: green;
+}
+.CardResultado-precio-title{
+    width: 100%;
+    text-align: left;
+    font-weight: bold;
 }

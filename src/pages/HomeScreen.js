@@ -5,6 +5,7 @@ import Blog from '../components/Blog/Blog';
 import Ofertas from '../components/Ofertas/Ofertas';
 import Brand from '../components/Brand/Brand';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import Info from '../components/Info/Info';
 
 function HomeScreen() {
   return (
@@ -13,6 +14,7 @@ function HomeScreen() {
       <Buscador />
       <Blog />
       <Ofertas />
+      <Info />
     </content>
   );
 }
