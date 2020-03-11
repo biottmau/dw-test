@@ -4,8 +4,8 @@
  */
 
 import * as React from 'react';
-import BuscadorService from '../services/BuscadorService';
-import CardResultado from '../components/lib/CardResultado';
+import BuscadorService from '../../services/BuscadorService';
+import CardResultado from '../lib/CardResultado';
 
 
 class Resultados extends React.Component{

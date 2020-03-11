@@ -2,7 +2,7 @@ import React from 'react';
 import '../App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Buscador from '../components/Buscador/Buscador';
-import Resultados from '../Resultados/Resultados';
+import Resultados from '../components/Resultados/Resultados';
 
 function BuscadorScreen(props) {
     console.log(props.match.params);
