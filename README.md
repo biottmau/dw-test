@@ -86,6 +86,11 @@ Los mismos fueron publicados en hosting propios para simular API.
 ( blog.json, types.json, ofertas-destinos.json, ofertas-destacadas.json, buscador.json, resultados.json )
  
 - En src/services pueden cambiar la dirección de la API que apunta a hosting personal
+- El componente autompletar hace busqueda sobre buscador.json
+- El componente Types hace busqueda sobre types.json
+- El componenet Blog ( Magazine ) consulta sobre blog.json
+- El componente Tab de ciudades destacadas y principales destinos consume ofertas-destacadas.json y ofertas-destinos.json
+- Los resultados en la segunda pagina hace uso de resultados.json
 
 ## Datos extras.
 - Se trabajó sobre la pantalla principal, mas pantalla con resultados. 
